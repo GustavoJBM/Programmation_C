@@ -1,3 +1,5 @@
 a.out
 *.out
 *.o
+teste.c
+testes.c
